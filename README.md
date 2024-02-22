@@ -61,3 +61,15 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
+admin login deatils:
+
+
+username= admin
+password= 123
+
