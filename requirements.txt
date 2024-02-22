@@ -1,0 +1,12 @@
+# Python
+python==3.11.1
+
+# Django and Django REST Framework
+Django==3.2.12
+djangorestframework==3.12.4
+
+# Database
+sqlite==3.36.0
+
+# Development Tools
+vscode==1.64.2
